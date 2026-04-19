@@ -1,0 +1,491 @@
+{
+  "contact": {
+    "location": "Bangalore, India",
+    "phone": "9897716535",
+    "email": "sunilsaini90846@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/saini-sunil",
+    "github": "https://github.com/sunilsaini90846"
+  },
+  "name": "Sunil Kumar",
+  "current_title": "Flutter Developer | Mobile App Architect",
+  "roles": [
+    "Flutter Developer",
+    "Mobile App Architect"
+  ],
+  "top_skills": [
+    { "name": "Flutter", "icon": "SiFlutter", "category": "core" },
+    { "name": "Dart", "icon": "SiDart", "category": "core" },
+    { "name": "BLoC / Cubit", "icon": "SiFlutter", "category": "core" },
+    { "name": "Provider", "icon": "SiFlutter", "category": "core" },
+    { "name": "GetX", "icon": "SiFlutter", "category": "core" },
+    { "name": "Riverpod", "icon": "SiFlutter", "category": "core" },
+    { "name": "Swift", "icon": "SiSwift", "category": "native" },
+    { "name": "Kotlin", "icon": "SiKotlin", "category": "native" },
+    { "name": "iOS (UIKit)", "icon": "SiApple", "category": "native" },
+    { "name": "Android SDK", "icon": "SiAndroid", "category": "native" },
+    { "name": "Firebase", "icon": "SiFirebase", "category": "backend" },
+    { "name": "REST API", "icon": "SiPostman", "category": "backend" },
+    { "name": "GraphQL", "icon": "SiGraphql", "category": "backend" },
+    { "name": "FastAPI", "icon": "SiFastapi", "category": "backend" },
+    { "name": "SQLite / Hive", "icon": "SiSqlite", "category": "backend" },
+    { "name": "Microsoft Intune", "icon": "SiMicrosoft", "category": "tools" },
+    { "name": "Git", "icon": "SiGit", "category": "tools" },
+    { "name": "CI/CD", "icon": "SiGithubactions", "category": "tools" },
+    { "name": "Figma", "icon": "SiFigma", "category": "tools" },
+    { "name": "Google Maps", "icon": "SiGooglemaps", "category": "tools" },
+    { "name": "Push Notifications", "icon": "SiFirebase", "category": "tools" },
+    { "name": "Stripe / Razorpay", "icon": "SiStripe", "category": "tools" },
+    { "name": "TypeScript", "icon": "SiTypescript", "category": "other" },
+    { "name": "Python", "icon": "SiPython", "category": "other" }
+  ],
+  "skill_categories": [
+    { "key": "core", "label": "Flutter & State Management" },
+    { "key": "native", "label": "Native & Platform" },
+    { "key": "backend", "label": "Backend & Data" },
+    { "key": "tools", "label": "Tools & Integrations" },
+    { "key": "other", "label": "Other Languages" }
+  ],
+  "summary": "Senior Flutter Developer with 7+ years of experience building scalable, high-performance cross-platform applications. Expert in Flutter architecture, state management, and native platform integration. Delivered 19 mobile and web applications for enterprise clients including Tata Communications and Myntra. Specialized in clean code, performance optimization, Microsoft Intune MDM integration, and leading development teams.",
+  "intune_section": {
+    "title": "Microsoft Intune + Flutter",
+    "subtitle": "Enterprise MDM Integration",
+    "description": "At Spire.AI, I architect and implement Microsoft Intune Mobile Device Management (MDM) integration within Flutter applications — enabling enterprise-grade security, compliance, and app protection policies across Android, iOS, and Web platforms.",
+    "capabilities": [
+      {
+        "title": "App Protection Policies",
+        "description": "Implement MAM (Mobile Application Management) policies to control data sharing, copy-paste restrictions, and screenshot prevention within managed Flutter apps."
+      },
+      {
+        "title": "Conditional Access & SSO",
+        "description": "Integrate Azure AD-based Single Sign-On and conditional access policies, ensuring only compliant devices can access enterprise data."
+      },
+      {
+        "title": "Managed App Configuration",
+        "description": "Deliver server-driven configurations to Flutter apps via Intune app config, allowing IT admins to remotely control app behavior without redeployment."
+      },
+      {
+        "title": "Platform Channel Bridge",
+        "description": "Build native Kotlin/Swift platform channels to bridge Intune SDK APIs with Dart, handling enrollment, compliance checks, and policy enforcement seamlessly."
+      },
+      {
+        "title": "Secure Data at Rest & Transit",
+        "description": "Enforce encryption policies for local storage and network requests, with certificate pinning and Intune-managed VPN tunnel configurations."
+      },
+      {
+        "title": "Device Compliance Monitoring",
+        "description": "Real-time device compliance status checks — jailbreak/root detection, OS version enforcement, and selective wipe capabilities for lost or non-compliant devices."
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Spire.AI Copilot for Talent",
+      "title": "Software Engineer 2",
+      "start_date": "April 2024",
+      "end_date": "Present",
+      "duration": "2 years 1 month",
+      "location": "Bengaluru, Karnataka, India",
+      "highlights": [
+        "Building enterprise-grade Flutter applications across Android, iOS, and Web",
+        "Implementing Microsoft Intune MDM integration for secure device management",
+        "Architecting scalable cross-platform solutions for talent management"
+      ]
+    },
+    {
+      "company": "TechAhead",
+      "title": "Senior Software Engineer",
+      "start_date": "October 2023",
+      "end_date": "March 2024",
+      "duration": "6 months",
+      "location": "Noida, Uttar Pradesh, India",
+      "highlights": [
+        "Built an e-commerce app from scratch, live on Play Store and App Store",
+        "Led code review and refactoring of live applications",
+        "Removed security vulnerabilities by hiding sensitive data and API keys",
+        "Upgraded Flutter and dependencies across multiple projects"
+      ]
+    },
+    {
+      "company": "Ficode Technologies Limited",
+      "title": "Trainee → Senior Software Engineer",
+      "start_date": "March 2019",
+      "end_date": "October 2023",
+      "duration": "4 years 8 months",
+      "location": "Chandigarh / Mohali, India",
+      "highlights": [
+        "Promoted 5 times: Trainee → Assistant SE → Associate SE → SE → Senior SE",
+        "Developed 10+ mobile applications from scratch across iOS and Android",
+        "Led team code reviews and mentored junior developers",
+        "Upgraded legacy projects to latest Flutter versions",
+        "Awarded 'Employee of the Month' for exceptional performance",
+        "Contributed to LLD and HLD documentation for enterprise projects"
+      ],
+      "promotions": [
+        { "title": "Senior Software Engineer", "period": "Nov 2022 – Oct 2023" },
+        { "title": "Software Engineer", "period": "Nov 2021 – Nov 2022" },
+        { "title": "Associate Software Engineer", "period": "Nov 2020 – Oct 2021" },
+        { "title": "Assistant Software Engineer", "period": "Oct 2019 – Oct 2020" },
+        { "title": "Software Engineering Trainee", "period": "Mar 2019 – Oct 2019" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "i.Exchange",
+      "subtitle": "Career Co-Pilot",
+      "description": "AI-powered platform that turns experience into a skills expertise profile, identifies skill gaps, recommends personalized learning content, and matches users to better-fit jobs based on skills and expertise.",
+      "tech_stack": ["Flutter", "Dart", "FastAPI", "Microsoft Intune", "BLoC"],
+      "category": "Enterprise",
+      "company": "Spire Technologies",
+      "platform": ["Android", "iOS", "Web"],
+      "period": "Jan 2026 – Present",
+      "status": "In Production",
+      "live_url": "#",
+      "highlights": [
+        "Build a complete skills expertise profile in minutes",
+        "AI-driven personalized learning content recommendations",
+        "Smart job matching based on skills and expertise"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Empollination",
+      "subtitle": "Employee Skills & Learning Platform",
+      "description": "Internal enterprise tool for employees to track skills, learning, training, certifications and discover new opportunities within the company.",
+      "tech_stack": ["Flutter", "Dart", "FastAPI", "REST API"],
+      "category": "Enterprise",
+      "company": "Spire Technologies",
+      "platform": ["Web"],
+      "period": "Sep 2025 – Jan 2026",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Skills tracking and gap analysis for employees",
+        "Training and certification management",
+        "Internal opportunity discovery engine"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Recruitment.Exchange",
+      "subtitle": "AI Recruitment Management System",
+      "description": "Mobile AI Copilot for the Exponential Recruiter — ultra-light yet fully loaded automated recruitment management system with Generative Skills AI based automation for unprecedented speed, quality and efficiency in sourcing and acquisition.",
+      "tech_stack": ["Flutter", "Dart", "AI/ML", "FastAPI", "BLoC"],
+      "category": "Enterprise",
+      "company": "Spire Technologies",
+      "platform": ["Android", "iOS"],
+      "period": "Jan 2025 – Jun 2025",
+      "status": "In Production",
+      "live_url": "#",
+      "highlights": [
+        "World's first AI Copilot for recruiters",
+        "Generative Skills AI for sourcing automation",
+        "Unprecedented speed and quality in talent acquisition"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Career Portal",
+      "subtitle": "Job Discovery & Application Platform",
+      "description": "A cross-platform web application for Mobile and Desktop to find and apply for jobs. Developed for major clients including Tata Communications, Myntra, and Spire Technology.",
+      "tech_stack": ["Flutter Web", "Flutter Mobile", "Dart", "REST API"],
+      "category": "Enterprise",
+      "company": "Spire Technologies",
+      "platform": ["Android", "iOS", "Web"],
+      "period": "Oct 2024 – Jan 2025",
+      "status": "In Production",
+      "live_url": "#",
+      "highlights": [
+        "Multi-client platform: Tata Communications, Myntra, Spire",
+        "Cross-platform web and mobile application",
+        "Job search, discovery, and application workflow"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Talent.Exchange",
+      "subtitle": "AI Staffing & Resource Management",
+      "description": "AI Copilot for exponential performance of staffing professionals — ultra-light yet fully loaded automated staffing and resource management system maximizing resource monetization.",
+      "tech_stack": ["Flutter", "Dart", "Microsoft Intune", "FastAPI", "Kotlin"],
+      "category": "Enterprise",
+      "company": "Spire Technologies",
+      "platform": ["Android", "iOS", "Web"],
+      "period": "Apr 2024 – Oct 2024",
+      "status": "In Production",
+      "live_url": "#",
+      "highlights": [
+        "AI-powered staffing performance optimization",
+        "Automated resource management system",
+        "MDM integration via Microsoft Intune"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Headlyne",
+      "subtitle": "Quick Reads — News in Short",
+      "description": "A news app that presents summaries of the latest news from different sources. One-stop destination for news readers to access articles from a variety of sources, all in one place, with category-based filtering.",
+      "tech_stack": ["Flutter", "Dart", "REST API", "BLoC"],
+      "category": "Mobile",
+      "company": "TechAhead",
+      "platform": ["Android", "iOS"],
+      "period": "Jan 2024 – Mar 2024",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Aggregated news from multiple sources",
+        "Category-based filtering and search",
+        "Clean reading experience with summaries"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Paty",
+      "subtitle": "Order Drinks to Bar",
+      "description": "Simplified drink ordering app — order drinks for pickup at bar from your phone. Built with Flutter for Android and iOS with Stripe payments, Zendesk support, and Mixpanel analytics.",
+      "tech_stack": ["Flutter", "Dart", "Firebase", "Stripe", "Zendesk", "Mixpanel", "BLoC", "Google Maps"],
+      "category": "Mobile",
+      "company": "TechAhead",
+      "platform": ["Android", "iOS"],
+      "period": "Oct 2023 – Jan 2024",
+      "status": "Live",
+      "live_url": "#",
+      "highlights": [
+        "Stripe payment integration",
+        "Location-based bar discovery with Google Maps",
+        "Real-time order tracking and pickup notifications"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Extended App",
+      "subtitle": "IoT Building Automation",
+      "description": "A unique and industry-first application for the Building Automation world. Offers user engagement with advanced monitoring of systems, components, and user comfort levels with day-to-day logging and automatic alarm handling.",
+      "tech_stack": ["Flutter", "Dart", "IoT", "REST API", "BLoC"],
+      "category": "IoT",
+      "company": "Ficode Technologies",
+      "platform": ["Android", "iOS"],
+      "period": "Apr 2023 – Sep 2023",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Industry-first Building Automation mobile app",
+        "Advanced system and component monitoring",
+        "Automatic alarm handling and logging"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Max Golf",
+      "subtitle": "Golf Course Booking App",
+      "description": "Efficient and user-friendly app to conveniently Join, Book and Play on multiple golf courses, all for one annual fee. Available on Google Play Store.",
+      "tech_stack": ["Flutter", "Dart", "REST API", "Google Maps"],
+      "category": "Mobile",
+      "company": "Ficode Technologies",
+      "platform": ["Android", "iOS"],
+      "period": "Feb 2023 – Apr 2023",
+      "status": "Live",
+      "live_url": "https://play.google.com/store/apps/details?id=com.agencycoda",
+      "highlights": [
+        "Multi-course booking with single annual fee",
+        "Location-based golf course discovery",
+        "Booking and tee-time management"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "ContApp",
+      "subtitle": "Digital Business Card & CRM",
+      "description": "A simplified contact CRM and networking tool trusted by marketing professionals and businesses worldwide. A smarter, secure and convenient way of digitally managing and using business cards while reducing paper waste.",
+      "tech_stack": ["Flutter", "Dart", "Firebase", "REST API"],
+      "category": "Mobile",
+      "company": "Ficode Technologies",
+      "platform": ["Android", "iOS"],
+      "period": "Jan 2023 – Jan 2023",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Digital business card management",
+        "Contact CRM for marketing professionals",
+        "Paper waste reduction through digitization"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Venue App",
+      "subtitle": "Restaurant Portal",
+      "description": "A restaurant portal app where restaurant owners update bar/restaurant status, manage available food and drink menus, and add offers for special days.",
+      "tech_stack": ["Flutter", "Dart", "REST API", "BLoC"],
+      "category": "Mobile",
+      "company": "Ficode Technologies",
+      "platform": ["Android", "iOS"],
+      "period": "Aug 2022 – Jan 2023",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Restaurant menu and status management",
+        "Special day offers and promotions",
+        "Real-time updates for customers"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "User App",
+      "subtitle": "Food Menu Online",
+      "description": "Customer-facing app to browse restaurant menus online, choose items and order directly. Shows current status of bars and restaurants in real-time.",
+      "tech_stack": ["Flutter", "Dart", "REST API"],
+      "category": "Mobile",
+      "company": "Ficode Technologies",
+      "platform": ["Android", "iOS"],
+      "period": "Feb 2022 – Jul 2022",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Online menu browsing and ordering",
+        "Real-time restaurant status updates",
+        "Seamless ordering experience"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Bubll Smart Matrix",
+      "subtitle": "IoT Smart Home Control",
+      "description": "IoT-based application to control electronic devices like Fan, AC, Light etc. Available on the App Store. Offers users an insight into the future of automation and IoT technologies.",
+      "tech_stack": ["Flutter", "Dart", "IoT", "REST API"],
+      "category": "IoT",
+      "company": "Ficode Technologies",
+      "platform": ["Android", "iOS"],
+      "period": "Aug 2021 – Jan 2022",
+      "status": "Live",
+      "live_url": "#",
+      "highlights": [
+        "Control electronic devices remotely",
+        "Smart home automation via IoT",
+        "Available on App Store"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "iBOS",
+      "subtitle": "IoT Building Operations System",
+      "description": "Designed for Workman LLP — a unique and industry-first application for the Building Automation world. Offers advanced monitoring of systems, components, and user comfort levels with day-to-day logging.",
+      "tech_stack": ["Flutter", "Dart", "IoT", "REST API", "BLoC"],
+      "category": "IoT",
+      "company": "Ficode Technologies",
+      "platform": ["Android", "iOS"],
+      "period": "Feb 2021 – Aug 2021",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Enterprise building operations management",
+        "Advanced system monitoring and analytics",
+        "Day-to-day operational logging"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Opera Study",
+      "subtitle": "Medical Trial Management",
+      "description": "Data collection tool to prospectively study outcomes of prepectoral breast reconstructions using Braxon acellular dermal matrix from multiple centres across the United Kingdom.",
+      "tech_stack": ["Swift", "iOS", "REST API"],
+      "category": "Mobile",
+      "company": "Ficode Technologies",
+      "platform": ["iOS"],
+      "period": "Nov 2020 – Feb 2021",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Multi-centre medical data collection across UK",
+        "Clinical trial outcomes tracking",
+        "Native iOS application built with Swift"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Workman",
+      "subtitle": "IoT Device Control",
+      "description": "Designed for Workman LLP — IoT application for the Building Automation world with advanced monitoring of systems, components, and user comfort levels with day-to-day logging capabilities.",
+      "tech_stack": ["Swift", "iOS", "IoT", "REST API"],
+      "category": "IoT",
+      "company": "Ficode Technologies",
+      "platform": ["iOS"],
+      "period": "May 2020 – Nov 2020",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Building automation control system",
+        "Advanced monitoring and logging",
+        "Native iOS IoT application"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Doc Dairy",
+      "subtitle": "Doctor Appointment Calendar",
+      "description": "An app for doctors and medical professionals to manage daily schedules. An electronic version to replace manual entry in notepads — manage daily appointments, follow-ups, schedules, notes, and reports.",
+      "tech_stack": ["Swift", "iOS", "CoreData"],
+      "category": "Mobile",
+      "company": "Ficode Technologies",
+      "platform": ["iOS"],
+      "period": "Apr 2020 – Jun 2020",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Digital appointment and schedule management",
+        "Replaces manual notepad entries for doctors",
+        "Notes, reports, and follow-up tracking"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "My Helping Hands",
+      "subtitle": "COVID Donation & Volunteer Platform",
+      "description": "A free social platform developed to link volunteers with those who need help during COVID. A common platform where people can register and find volunteers for any individual or organisation.",
+      "tech_stack": ["Swift", "iOS", "Firebase"],
+      "category": "Mobile",
+      "company": "Ficode Technologies",
+      "platform": ["iOS"],
+      "period": "Feb 2020 – Apr 2020",
+      "status": "Completed",
+      "live_url": "#",
+      "highlights": [
+        "Volunteer-to-needy matching platform",
+        "Free social platform for COVID relief",
+        "Registration for individuals and organisations"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Bubll",
+      "subtitle": "IoT Smart Device Control",
+      "description": "IoT-based application to control electronic devices like Fan, AC, Light etc. Available on App Store. Offers insight into the future of automation and IoT technologies.",
+      "tech_stack": ["Swift", "iOS", "IoT", "Firebase"],
+      "category": "IoT",
+      "company": "Ficode Technologies",
+      "platform": ["iOS"],
+      "period": "Mar 2019 – Feb 2020",
+      "status": "Live",
+      "live_url": "#",
+      "highlights": [
+        "First project — iOS IoT smart home control",
+        "Remote device control via app",
+        "Available on the App Store"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Shri Ram Group of Colleges, Muzaffarnagar",
+      "degree": "B.Tech",
+      "field_of_study": "Computer Science",
+      "start_date": "August 2015",
+      "end_date": "June 2019"
+    }
+  ],
+  "stats": [
+    { "label": "Years Experience", "value": "7+" },
+    { "label": "Apps Shipped", "value": "19" },
+    { "label": "Companies", "value": "3" },
+    { "label": "Promotions", "value": "5" }
+  ]
+}
